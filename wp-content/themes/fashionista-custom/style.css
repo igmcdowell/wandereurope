@@ -1,0 +1,11 @@
+/*
+Theme Name:     Fashionistas Child
+Theme URI:      https://wordpress.org/themes/fashionistas/
+Description:    Child theme for the Fashionistas theme
+Author:         Ian McDowell
+Author URI:     http: //www.wandereurope.com/
+Template:       fashionistas
+Version:        0.1.0
+*/
+
+@import url("http://wandereurope.com/wp-content/themes/fashionistas/style.css");
