@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>google paris &#8211; Wander Europe</title>
+	<atom:link href="/index.php/tag/google-paris/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Traveling like snobs, but for less money</description>
+	<lastBuildDate>Fri, 17 Jul 2015 12:08:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>The View Outside Google Paris</title>
+		<link>/index.php/2015/07/17/the-view-outside-google-paris/</link>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2015 12:08:49 +0000</pubDate>
+				<category><![CDATA[Bars]]></category>
+		<category><![CDATA[Paris]]></category>
+		<category><![CDATA[google paris]]></category>
+		<guid isPermaLink="false">/?p=412</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div id="attachment_413" style="width: 650px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2015/07/gbars.jpg"><img aria-describedby="caption-attachment-413" class="size-large wp-image-413" src="/wp-content/uploads/2015/07/gbars-1024x768.jpg" alt="Gate outside the Google Paris office" width="640" height="480" srcset="/wp-content/uploads/2015/07/gbars-1024x768.jpg 1024w, /wp-content/uploads/2015/07/gbars-500x375.jpg 500w, /wp-content/uploads/2015/07/gbars.jpg 2048w" sizes="(max-width: 640px) 100vw, 640px" /></a><p id="caption-attachment-413" class="wp-caption-text">Nothing says &#8220;lighthearted megacorporation&#8221; like a wall of steel bars in bright primary colors</p></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

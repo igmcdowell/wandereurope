@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rubber stamps &#8211; Wander Europe</title>
+	<atom:link href="/index.php/tag/rubber-stamps/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Traveling like snobs, but for less money</description>
+	<lastBuildDate>Tue, 06 Oct 2015 17:50:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>Stamps!</title>
+		<link>/index.php/2015/07/18/stamps/</link>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Sat, 18 Jul 2015 19:42:07 +0000</pubDate>
+				<category><![CDATA[France]]></category>
+		<category><![CDATA[Paris]]></category>
+		<category><![CDATA[rubber stamps]]></category>
+		<guid isPermaLink="false">/?p=460</guid>
+
+					<description><![CDATA[This shop made awesome indie rubber stamps. They weren&#8217;t open, so sadly I do not own any of them.]]></description>
+										<content:encoded><![CDATA[<p>This shop made awesome indie rubber stamps. They weren&#8217;t open, so sadly I do not own any of them.</p>
+<div id="attachment_461" style="width: 650px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2015/07/stamps.jpg"><img aria-describedby="caption-attachment-461" class="size-large wp-image-461" src="/wp-content/uploads/2015/07/stamps-1024x768.jpg" alt="store front showing indie rubber stamps" width="640" height="480" srcset="/wp-content/uploads/2015/07/stamps-1024x768.jpg 1024w, /wp-content/uploads/2015/07/stamps-500x375.jpg 500w, /wp-content/uploads/2015/07/stamps.jpg 2048w" sizes="(max-width: 640px) 100vw, 640px" /></a><p id="caption-attachment-461" class="wp-caption-text">Note the DIY hanging tree stamp set. Fun for all ages!</p></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

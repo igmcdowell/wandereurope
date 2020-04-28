@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>louisiana museum &#8211; Wander Europe</title>
+	<atom:link href="/index.php/tag/louisiana-museum/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Traveling like snobs, but for less money</description>
+	<lastBuildDate>Mon, 29 Jun 2015 07:45:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>Hooray for museums</title>
+		<link>/index.php/2015/06/27/hooray-for-museums/</link>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Sat, 27 Jun 2015 15:25:39 +0000</pubDate>
+				<category><![CDATA[Denmark]]></category>
+		<category><![CDATA[Museums]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[bridge]]></category>
+		<category><![CDATA[henry moore]]></category>
+		<category><![CDATA[louisiana museum]]></category>
+		<category><![CDATA[sculpture garden]]></category>
+		<category><![CDATA[slide]]></category>
+		<guid isPermaLink="false">/?p=167</guid>
+
+					<description><![CDATA[Following Tiara&#8217;s lead on Copenhagen retrospective. Here&#8217;s some more outdoor fun from the Louisiana museum.]]></description>
+										<content:encoded><![CDATA[<p>Following Tiara&#8217;s lead on Copenhagen retrospective. Here&#8217;s some more outdoor fun from the Louisiana museum.</p>
+<p><iframe width="640" height="480" src="https://www.youtube.com/embed/KsbTgX2cUhw?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p><span id="more-167"></span></p>
+<div id="attachment_168" style="width: 650px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2015/06/IMG_13751.jpg"><img aria-describedby="caption-attachment-168" class="wp-image-168 size-large" src="/wp-content/uploads/2015/06/IMG_13751-768x1024.jpg" alt="Divided bridge at Louisiana museum" width="640" height="853" srcset="/wp-content/uploads/2015/06/IMG_13751-768x1024.jpg 768w, /wp-content/uploads/2015/06/IMG_13751-225x300.jpg 225w, /wp-content/uploads/2015/06/IMG_13751.jpg 1152w" sizes="(max-width: 640px) 100vw, 640px" /></a><p id="caption-attachment-168" class="wp-caption-text">Cool divided log bridge. I forget the artist. Sorry. You&#8217;ll just have to go there yourself.</p></div>
+<div id="attachment_170" style="width: 650px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2015/06/IMG_1369.jpg"><img aria-describedby="caption-attachment-170" class="size-large wp-image-170" src="/wp-content/uploads/2015/06/IMG_1369-1024x768.jpg" alt="Henry moore sculpture at Lousiiana museum" width="640" height="480" srcset="/wp-content/uploads/2015/06/IMG_1369-1024x768.jpg 1024w, /wp-content/uploads/2015/06/IMG_1369-300x225.jpg 300w, /wp-content/uploads/2015/06/IMG_1369.jpg 2048w" sizes="(max-width: 640px) 100vw, 640px" /></a><p id="caption-attachment-170" class="wp-caption-text">One of the many Henry Moore sculptures lying around</p></div>
+<div id="attachment_171" style="width: 650px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2015/06/IMG_13721.jpg"><img aria-describedby="caption-attachment-171" class="size-large wp-image-171" src="/wp-content/uploads/2015/06/IMG_13721-1024x261.jpg" alt="Louisiana Panorama" width="640" height="163" srcset="/wp-content/uploads/2015/06/IMG_13721-1024x261.jpg 1024w, /wp-content/uploads/2015/06/IMG_13721-300x76.jpg 300w, /wp-content/uploads/2015/06/IMG_13721.jpg 2048w" sizes="(max-width: 640px) 100vw, 640px" /></a><p id="caption-attachment-171" class="wp-caption-text">Tiara surveys her domain</p></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

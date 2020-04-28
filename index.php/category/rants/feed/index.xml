@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rants &#8211; Wander Europe</title>
+	<atom:link href="/index.php/category/rants/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Traveling like snobs, but for less money</description>
+	<lastBuildDate>Sun, 12 Jul 2015 20:29:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>Rant: Love Lock Cancer</title>
+		<link>/index.php/2015/07/11/rant-love-lock-cancer/</link>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Sat, 11 Jul 2015 21:42:00 +0000</pubDate>
+				<category><![CDATA[Monuments]]></category>
+		<category><![CDATA[Paris]]></category>
+		<category><![CDATA[Rants]]></category>
+		<guid isPermaLink="false">/?p=360</guid>
+
+					<description><![CDATA[Parisian bridges and monuments are being literally crushed by tourist flocking behavior. I&#8217;m pretty sure most of the lockers wouldn&#8217;t scratch their initials into a park bench, but they have no problem vandalizing a 200 year old bridge. Some people. leaves soapbox]]></description>
+										<content:encoded><![CDATA[<p>Parisian bridges and monuments are being literally <a href="http://www.bbc.com/news/world-europe-27758940" target="_blank">crushed by tourist flocking</a> behavior.</p>
+<div id="attachment_361" style="width: 650px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2015/07/IMG_1677.jpg"><img aria-describedby="caption-attachment-361" class="size-large wp-image-361" src="/wp-content/uploads/2015/07/IMG_1677-768x1024.jpg" alt="Love locks on the under side of a paris bridge" width="640" height="853" srcset="/wp-content/uploads/2015/07/IMG_1677-768x1024.jpg 768w, /wp-content/uploads/2015/07/IMG_1677-375x500.jpg 375w, /wp-content/uploads/2015/07/IMG_1677.jpg 1152w" sizes="(max-width: 640px) 100vw, 640px" /></a><p id="caption-attachment-361" class="wp-caption-text">Metastasizing amorocarcenoma on the bottom of a bridge</p></div>
+<p>I&#8217;m pretty sure most of the lockers wouldn&#8217;t scratch their initials into a park bench, but they have no problem vandalizing a 200 year old bridge. Some people.</p>
+<p><em>leaves soapbox</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

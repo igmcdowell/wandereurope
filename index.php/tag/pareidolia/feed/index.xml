@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pareidolia &#8211; Wander Europe</title>
+	<atom:link href="/index.php/tag/pareidolia/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Traveling like snobs, but for less money</description>
+	<lastBuildDate>Sun, 09 Aug 2015 16:21:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>Pareidolia</title>
+		<link>/index.php/2015/08/09/pareidolia/</link>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Sun, 09 Aug 2015 16:21:51 +0000</pubDate>
+				<category><![CDATA[Food]]></category>
+		<category><![CDATA[faces in things]]></category>
+		<category><![CDATA[pareidolia]]></category>
+		<guid isPermaLink="false">/?p=699</guid>
+
+					<description><![CDATA[This one goes out to @briantobin, who taught me the word pareidolia. &#160;]]></description>
+										<content:encoded><![CDATA[<p>This one goes out to <a href="https://twitter.com/briantobin">@briantobin</a>, who taught me the word <a href="https://en.wikipedia.org/wiki/Pareidolia">pareidolia</a>.</p>
+<div id="attachment_701" style="width: 650px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2015/08/coconut_friend_face.jpg"><img aria-describedby="caption-attachment-701" class="wp-image-701 size-large" src="/wp-content/uploads/2015/08/coconut_friend_face-768x1024.jpg" alt="coconut_friend_face" width="640" height="853" srcset="/wp-content/uploads/2015/08/coconut_friend_face-768x1024.jpg 768w, /wp-content/uploads/2015/08/coconut_friend_face-375x500.jpg 375w, /wp-content/uploads/2015/08/coconut_friend_face.jpg 1152w" sizes="(max-width: 640px) 100vw, 640px" /></a><p id="caption-attachment-701" class="wp-caption-text">Cranberry danish or evil alien overlord? You decide.</p></div>
+<div id="attachment_700" style="width: 650px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2015/08/coconut_face.jpg"><img aria-describedby="caption-attachment-700" class="wp-image-700 size-large" src="/wp-content/uploads/2015/08/coconut_face-768x1024.jpg" alt="coconut_face" width="640" height="853" srcset="/wp-content/uploads/2015/08/coconut_face-768x1024.jpg 768w, /wp-content/uploads/2015/08/coconut_face-375x500.jpg 375w, /wp-content/uploads/2015/08/coconut_face.jpg 1152w" sizes="(max-width: 640px) 100vw, 640px" /></a><p id="caption-attachment-700" class="wp-caption-text">Somebody call this coconut a cab; he&#8217;s had enough.</p></div>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

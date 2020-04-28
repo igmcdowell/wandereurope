@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>coffeeshops &#8211; Wander Europe</title>
+	<atom:link href="/index.php/tag/coffeeshops/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Traveling like snobs, but for less money</description>
+	<lastBuildDate>Thu, 25 Jun 2015 22:32:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>A Petit Dejeuner</title>
+		<link>/index.php/2015/06/25/a-petit-dejeuner/</link>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2015 22:32:55 +0000</pubDate>
+				<category><![CDATA[Food]]></category>
+		<category><![CDATA[Paris]]></category>
+		<category><![CDATA[blackburn coffee]]></category>
+		<category><![CDATA[coffee]]></category>
+		<category><![CDATA[coffeeshops]]></category>
+		<guid isPermaLink="false">/?p=145</guid>
+
+					<description><![CDATA[No, it has nothing to do with simian anatomy. We&#8217;re talking breakfast in Paris. We stopped by Blackburn Coffee for some tasty treats &#8211; coffee, orange juice, eggs and salad for €12. A few quick observations: Fresh squeezed orange juice is&#8230; <a href="/index.php/2015/06/25/a-petit-dejeuner/" class="more-link">Continue Reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>No, it has nothing to do with <a href="https://youtu.be/bEghu90QJH4?t=179">simian anatomy</a>. We&#8217;re talking breakfast in Paris. We stopped by <a href="http://www.blackburn-paris.com/">Blackburn Coffee</a> for some tasty treats &#8211; coffee, orange juice, eggs and salad for €12.</p>
+<p><a href="/wp-content/uploads/2015/06/IMG_1397.jpg"><img class="aligncenter size-large wp-image-146" src="/wp-content/uploads/2015/06/IMG_1397-1024x768.jpg" alt="breakfast at blackburn coffee" width="640" height="480" srcset="/wp-content/uploads/2015/06/IMG_1397-1024x768.jpg 1024w, /wp-content/uploads/2015/06/IMG_1397-300x225.jpg 300w, /wp-content/uploads/2015/06/IMG_1397.jpg 2048w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<p><span id="more-145"></span></p>
+<p>A few quick observations:</p>
+<ul>
+<li>Fresh squeezed orange juice is amazing, I do not drink it enough.</li>
+<li>Paris is not on the &#8220;I like my coffee raw&#8221; kick that San Francisco seems to be on. These beans were a true medium roast, and it made for a smooth, tasty cup with none of that crazy sourness that seems to be in vogue stateside.</li>
+<li>&#8220;Scrambled eggs&#8221; in Paris is so much more. It was cheesy and herby and other things I cannot properly describe.</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

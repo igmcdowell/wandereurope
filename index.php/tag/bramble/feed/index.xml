@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bramble &#8211; Wander Europe</title>
+	<atom:link href="/index.php/tag/bramble/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Traveling like snobs, but for less money</description>
+	<lastBuildDate>Mon, 20 Jul 2015 20:23:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>Le Syndicat Redux</title>
+		<link>/index.php/2015/07/20/le-syndicat-redux/</link>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2015 20:23:45 +0000</pubDate>
+				<category><![CDATA[Bars]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paris]]></category>
+		<category><![CDATA[bramble]]></category>
+		<category><![CDATA[c4 cocktail]]></category>
+		<category><![CDATA[craft cocktails]]></category>
+		<category><![CDATA[le syndicat]]></category>
+		<guid isPermaLink="false">/?p=536</guid>
+
+					<description><![CDATA[We couldn&#8217;t help it; after the incredible drinks from our first trip, we went back for more at the best bar in Paris. The C4 was a suped up V8; I&#8217;m assuming that&#8217;s what they were going for with the name.&#8230; <a href="/index.php/2015/07/20/le-syndicat-redux/" class="more-link">Continue Reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>We couldn&#8217;t help it; after the<a href="/index.php/2015/06/29/paris-bars-iii-le-syndicat/"> incredible drinks from our first trip</a>, we went back for more at the best bar in Paris.</p>
+<div id="attachment_537" style="width: 650px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2015/07/syndicate_bramble.jpg"><img aria-describedby="caption-attachment-537" class="size-large wp-image-537" src="/wp-content/uploads/2015/07/syndicate_bramble-1024x768.jpg" alt="Le Syndicat C4 cocktail" width="640" height="480" srcset="/wp-content/uploads/2015/07/syndicate_bramble-1024x768.jpg 1024w, /wp-content/uploads/2015/07/syndicate_bramble-500x375.jpg 500w, /wp-content/uploads/2015/07/syndicate_bramble.jpg 2048w" sizes="(max-width: 640px) 100vw, 640px" /></a><p id="caption-attachment-537" class="wp-caption-text">The C4. Now that&#8217;s my kind of breakfast.</p></div>
+<p><span id="more-536"></span></p>
+<p>The C4 was a suped up V8; I&#8217;m assuming that&#8217;s what they were going for with the name. It&#8217;s carrot juice, celery juice, citrus, gin, honey-pepper syrup, and a little bit of magic. I don&#8217;t generally go for the savory vegetable drinks (no thanks Bloody Mary), but I&#8217;ll make an exception for this one.</p>
+<div id="attachment_538" style="width: 650px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2015/07/syndicate_c4.jpg"><img aria-describedby="caption-attachment-538" class="wp-image-538 size-large" src="/wp-content/uploads/2015/07/syndicate_c4-1024x768.jpg" alt="Le Syndicate bramble cocktail" width="640" height="480" srcset="/wp-content/uploads/2015/07/syndicate_c4-1024x768.jpg 1024w, /wp-content/uploads/2015/07/syndicate_c4-500x375.jpg 500w, /wp-content/uploads/2015/07/syndicate_c4.jpg 2048w" sizes="(max-width: 640px) 100vw, 640px" /></a><p id="caption-attachment-538" class="wp-caption-text">Have it your way. The bramble comes with a shot of cassis on the side, so you can get just the right amount of berry flavor.</p></div>
+<p>The bramble is another riff on a classic. They substitute genever for dry gin and add gentian liqueur.  It&#8217;s a lovely fruity refreshing drink on a hot summer day, with a little extra complexity from the changes.</p>
+<p>We also had to go back for another smoking car. I snapped a video of the alchemy when the sidecar hits the orange peel smoke:</p>
+<p><iframe width="640" height="480" src="https://www.youtube.com/embed/jFi--_9yfuM?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

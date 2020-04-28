@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>signage &#8211; Wander Europe</title>
+	<atom:link href="/index.php/tag/signage/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Traveling like snobs, but for less money</description>
+	<lastBuildDate>Tue, 23 Jun 2015 22:17:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>Know Your Fisk, Part I</title>
+		<link>/index.php/2015/06/23/know-your-fisk-part-i/</link>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2015 22:13:12 +0000</pubDate>
+				<category><![CDATA[Food]]></category>
+		<category><![CDATA[Sweden]]></category>
+		<category><![CDATA[signage]]></category>
+		<guid isPermaLink="false">/?p=89</guid>
+
+					<description><![CDATA[Ål likes bird watching, dancing samba, and long walks on the beach.]]></description>
+										<content:encoded><![CDATA[<p style="text-align: center;"><a href="/wp-content/uploads/2015/06/IMG_13261.jpg"><img class="alignnone wp-image-106 size-large" src="/wp-content/uploads/2015/06/IMG_13261-1024x768.jpg" alt="IMG_1326" width="640" height="480" srcset="/wp-content/uploads/2015/06/IMG_13261-1024x768.jpg 1024w, /wp-content/uploads/2015/06/IMG_13261-300x225.jpg 300w, /wp-content/uploads/2015/06/IMG_13261.jpg 2048w" sizes="(max-width: 640px) 100vw, 640px" /></a>Ål likes bird watching, dancing samba, and long walks on the beach.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Don&#8217;t stay here</title>
+		<link>/index.php/2015/06/21/dont-stay-here/</link>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Sun, 21 Jun 2015 09:21:49 +0000</pubDate>
+				<category><![CDATA[Sweden]]></category>
+		<category><![CDATA[signage]]></category>
+		<category><![CDATA[stockholm]]></category>
+		<guid isPermaLink="false">/?p=64</guid>
+
+					<description><![CDATA[Unless you&#8217;re into it, I guess.]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2015/06/IMG_1284.jpg"><img class=" size-medium wp-image-65 aligncenter" src="/wp-content/uploads/2015/06/IMG_1284-300x225.jpg" alt="Scandic Farts Hotel" width="300" height="225" srcset="/wp-content/uploads/2015/06/IMG_1284-300x225.jpg 300w, /wp-content/uploads/2015/06/IMG_1284-1024x768.jpg 1024w, /wp-content/uploads/2015/06/IMG_1284.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Unless you&#8217;re into it, I guess.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

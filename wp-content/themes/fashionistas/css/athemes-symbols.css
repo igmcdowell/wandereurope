@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'afonts';
-	src: url('http://wandereurope.com/wp-content/themes/fashionistas/fonts/afonts.eot?94519643');
-	src: url('http://wandereurope.com/wp-content/themes/fashionistas/fonts/afonts.eot?94519643#iefix') format('embedded-opentype'),
-		 url('http://wandereurope.com/wp-content/themes/fashionistas/fonts/afonts.woff?94519643') format('woff'),
-		 url('http://wandereurope.com/wp-content/themes/fashionistas/fonts/afonts.ttf?94519643') format('truetype'),
-		 url('http://wandereurope.com/wp-content/themes/fashionistas/fonts/afonts.svg?94519643#afonts') format('svg');
+	src: url('/wp-content/themes/fashionistas/fonts/afonts.eot?94519643');
+	src: url('/wp-content/themes/fashionistas/fonts/afonts.eot?94519643#iefix') format('embedded-opentype'),
+		 url('/wp-content/themes/fashionistas/fonts/afonts.woff?94519643') format('woff'),
+		 url('/wp-content/themes/fashionistas/fonts/afonts.ttf?94519643') format('truetype'),
+		 url('/wp-content/themes/fashionistas/fonts/afonts.svg?94519643#afonts') format('svg');
 	font-weight: normal;
 	font-style: normal;
 	}
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
 	@font-face {
 		font-family: 'afonts';
-		src: url('http://wandereurope.com/wp-content/themes/fashionistas/fonts/afonts.svg?94519643#afonts') format('svg');
+		src: url('/wp-content/themes/fashionistas/fonts/afonts.svg?94519643#afonts') format('svg');
 		}
 	}
 */

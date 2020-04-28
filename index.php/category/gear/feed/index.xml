@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gear &#8211; Wander Europe</title>
+	<atom:link href="/index.php/category/gear/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Traveling like snobs, but for less money</description>
+	<lastBuildDate>Sat, 18 Jul 2015 21:19:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>Introducing Wander Gear</title>
+		<link>/index.php/2015/07/18/introducing-wander-gear/</link>
+		
+		<dc:creator><![CDATA[Tiara]]></dc:creator>
+		<pubDate>Sat, 18 Jul 2015 19:00:56 +0000</pubDate>
+				<category><![CDATA[Gear]]></category>
+		<guid isPermaLink="false">/?p=446</guid>
+
+					<description><![CDATA[We wanted to let you know that while you&#8217;ve been reading all of our fascinating and groundbreaking posts on this page, we&#8217;ve also been working on a new section of our blog.  Wander Gear includes posts about what we brought with&#8230; <a href="/index.php/2015/07/18/introducing-wander-gear/" class="more-link">Continue Reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>We wanted to let you know that while you&#8217;ve been reading all of our fascinating and groundbreaking posts on this page, we&#8217;ve also been working on a new section of our blog.  <a href="/index.php/wander-gear/">Wander Gear</a> includes posts about what we brought with us on our trip, links to those items, and our impressions so far.  If you are one of the people who has been interested in what we&#8217;ve packed for nine months in Europe, this is your page.  Posts on Wander Gear won&#8217;t typically show up here on the main page, but you can visit that section for updates.  So far, you can learn about the <a href="/index.php/wander-gear/clothing/tiaras-clothing/">clothes Tiara packed</a> and our <a href="/index.php/wander-gear/wander-gear-electronics/europe-travel-adapter/">travel adapter</a>.  Also, if you have specific gear questions or requests for posts, leave us a comment.  We love comments!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

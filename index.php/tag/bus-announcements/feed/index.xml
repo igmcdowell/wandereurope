@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bus announcements &#8211; Wander Europe</title>
+	<atom:link href="/index.php/tag/bus-announcements/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Traveling like snobs, but for less money</description>
+	<lastBuildDate>Wed, 30 Sep 2015 08:47:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>The Bus Driver&#8217;s Song</title>
+		<link>/index.php/2015/09/30/the-bus-drivers-song/</link>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2015 08:47:57 +0000</pubDate>
+				<category><![CDATA[Czech Republic]]></category>
+		<category><![CDATA[bus announcements]]></category>
+		<guid isPermaLink="false">/?p=1100</guid>
+
+					<description><![CDATA[We take a lot of buses. There are good companies, like Polski Bus in Poland, or Student Agency in the Czech Republic with modern, clean, wi-fi enabled buses. They also have bus stewards/stewardesses, kind of like an airplane. On one&#8230; <a href="/index.php/2015/09/30/the-bus-drivers-song/" class="more-link">Continue Reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>We take a lot of buses. There are good companies, like Polski Bus in Poland, or Student Agency in the Czech Republic with modern, clean, wi-fi enabled buses. They also have bus stewards/stewardesses, kind of like an airplane. On one particular bus we were treated to an announcer who liked to deliver all of her lines in a sort of liturgical chant. I recorded a snippet, so you too can experience the joy of busridership. Enjoy.</p>
+<p><iframe width="640" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&#038;url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F226237525&#038;show_artwork=true&#038;maxwidth=640&#038;maxheight=960"></iframe></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

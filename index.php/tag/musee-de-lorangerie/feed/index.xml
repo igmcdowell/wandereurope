@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>musee de l&#8217;orangerie &#8211; Wander Europe</title>
+	<atom:link href="/index.php/tag/musee-de-lorangerie/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Traveling like snobs, but for less money</description>
+	<lastBuildDate>Thu, 02 Jul 2015 15:35:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>What is this? A museum for ants?!</title>
+		<link>/index.php/2015/07/02/what-is-this-a-museum-for-ants/</link>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Thu, 02 Jul 2015 21:31:29 +0000</pubDate>
+				<category><![CDATA[Museums]]></category>
+		<category><![CDATA[Paris]]></category>
+		<category><![CDATA[center for ants]]></category>
+		<category><![CDATA[dioramas]]></category>
+		<category><![CDATA[musee de l'orangerie]]></category>
+		<guid isPermaLink="false">/?p=251</guid>
+
+					<description><![CDATA[Reference, for old people.]]></description>
+										<content:encoded><![CDATA[<div id="attachment_252" style="width: 510px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2015/07/IMG_1551.jpg"><img aria-describedby="caption-attachment-252" class="wp-image-252 size-medium" src="/wp-content/uploads/2015/07/IMG_1551-500x375.jpg" alt="Diorama from Musée de l'Orangerie" width="500" height="375" srcset="/wp-content/uploads/2015/07/IMG_1551-500x375.jpg 500w, /wp-content/uploads/2015/07/IMG_1551-1024x768.jpg 1024w, /wp-content/uploads/2015/07/IMG_1551.jpg 2048w" sizes="(max-width: 500px) 100vw, 500px" /></a><p id="caption-attachment-252" class="wp-caption-text">It needs to be at least&#8230; 3 times bigger</p></div>
+<p><a href="https://youtu.be/NQ-8IuUkJJc?t=1m2s">Reference</a>, for old people.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

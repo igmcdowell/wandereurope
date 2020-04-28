@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>le Centre de la Vieille Charité &#8211; Wander Europe</title>
+	<atom:link href="/index.php/tag/le-centre-de-la-vieille-charite/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Traveling like snobs, but for less money</description>
+	<lastBuildDate>Mon, 27 Jul 2015 12:22:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>Neural Network Art</title>
+		<link>/index.php/2015/07/27/neural-network-art/</link>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2015 07:47:04 +0000</pubDate>
+				<category><![CDATA[France]]></category>
+		<category><![CDATA[Museums]]></category>
+		<category><![CDATA[deep dream]]></category>
+		<category><![CDATA[le Centre de la Vieille Charité]]></category>
+		<category><![CDATA[marseille]]></category>
+		<category><![CDATA[neural network art]]></category>
+		<guid isPermaLink="false">/?p=559</guid>
+
+					<description><![CDATA[Here&#8217;s a computer generated artwork from one of our trip photos: A few weeks ago I was fascinated by some Google researcher&#8217;s post on how they took computer networks trained to recognize images and tweaked them to generate/morph images instead. It&#8217;s fascinating,&#8230; <a href="/index.php/2015/07/27/neural-network-art/" class="more-link">Continue Reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Here&#8217;s a computer generated artwork from one of our trip photos:</p>
+<div id="attachment_560" style="width: 610px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2015/07/dreamscoped_bean.jpeg"><img aria-describedby="caption-attachment-560" class="size-full wp-image-560" src="/wp-content/uploads/2015/07/dreamscoped_bean.jpeg" alt="Dreamscoped version of sculpture from Centre de la Vieille Charité" width="600" height="800" srcset="/wp-content/uploads/2015/07/dreamscoped_bean.jpeg 600w, /wp-content/uploads/2015/07/dreamscoped_bean-375x500.jpeg 375w" sizes="(max-width: 600px) 100vw, 600px" /></a><p id="caption-attachment-560" class="wp-caption-text">Artception!</p></div>
+<p><span id="more-559"></span></p>
+<p>A few weeks ago I was fascinated by some <a href="http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html">Google researcher&#8217;s post </a>on how they took computer networks trained to recognize images and tweaked them to generate/morph images instead. It&#8217;s fascinating, and worth a read even if you&#8217;re not hip to the computer science.</p>
+<p>On my todo list is to get their code running on my computer, but in the meantime someone saved me the work and made a website for transforming  photos. You can try it yourself at https://dreamscopeapp.com/</p>
+<p>I picked an already trippy picture from Marseille, and it came out looking pretty neat. Here&#8217;s the original:</p>
+<div id="attachment_561" style="width: 650px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2015/07/marseille_museum_bean.jpg"><img aria-describedby="caption-attachment-561" class="size-large wp-image-561" src="/wp-content/uploads/2015/07/marseille_museum_bean-768x1024.jpg" alt="Sculpture from Centre de la Vieille Charité" width="640" height="853" srcset="/wp-content/uploads/2015/07/marseille_museum_bean-768x1024.jpg 768w, /wp-content/uploads/2015/07/marseille_museum_bean-375x500.jpg 375w, /wp-content/uploads/2015/07/marseille_museum_bean.jpg 1152w" sizes="(max-width: 640px) 100vw, 640px" /></a><p id="caption-attachment-561" class="wp-caption-text">Just about equally trippy, actually.</p></div>
+<p>Here&#8217;s another transformed version for your nightmares:</p>
+<p><a href="/wp-content/uploads/2015/07/dreamscoped_bean2.jpeg"><img class="aligncenter size-full wp-image-565" src="/wp-content/uploads/2015/07/dreamscoped_bean2.jpeg" alt="dreamscoped_bean2" width="600" height="800" srcset="/wp-content/uploads/2015/07/dreamscoped_bean2.jpeg 600w, /wp-content/uploads/2015/07/dreamscoped_bean2-375x500.jpeg 375w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

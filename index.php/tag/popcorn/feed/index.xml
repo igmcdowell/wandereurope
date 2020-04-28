@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>popcorn &#8211; Wander Europe</title>
+	<atom:link href="/index.php/tag/popcorn/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Traveling like snobs, but for less money</description>
+	<lastBuildDate>Sun, 12 Jul 2015 20:28:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>Thinking of you, Dad!</title>
+		<link>/index.php/2015/07/11/thinking-of-you-dad/</link>
+		
+		<dc:creator><![CDATA[Ian]]></dc:creator>
+		<pubDate>Sun, 12 Jul 2015 00:50:00 +0000</pubDate>
+				<category><![CDATA[Food]]></category>
+		<category><![CDATA[Paris]]></category>
+		<category><![CDATA[Signs]]></category>
+		<category><![CDATA[popcorn]]></category>
+		<guid isPermaLink="false">/?p=356</guid>
+
+					<description><![CDATA[And only a month late for father&#8217;s day.]]></description>
+										<content:encoded><![CDATA[<p>And only a month late for father&#8217;s day.</p>
+<div id="attachment_357" style="width: 650px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2015/07/IMG_1695.jpg"><img aria-describedby="caption-attachment-357" class="size-large wp-image-357" src="/wp-content/uploads/2015/07/IMG_1695-768x1024.jpg" alt="Popcorn store window reading &quot;my crazy pop&quot;" width="640" height="853" srcset="/wp-content/uploads/2015/07/IMG_1695-768x1024.jpg 768w, /wp-content/uploads/2015/07/IMG_1695-375x500.jpg 375w, /wp-content/uploads/2015/07/IMG_1695.jpg 1152w" sizes="(max-width: 640px) 100vw, 640px" /></a><p id="caption-attachment-357" class="wp-caption-text">&#8220;Original &amp; unique&#8221; doesn&#8217;t begin to cover it</p></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
